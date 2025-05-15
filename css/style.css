@@ -1,0 +1,11 @@
+.gradient-background {
+    background: #75A47F;
+background: linear-gradient(0deg, rgba(117, 164, 127, 1) 0%, rgba(186, 205, 146, 1) 100%);
+}
+
+
+.carousel-item img {
+  height: 600px; /* or any height you prefer */
+  object-fit: cover;
+  width: 100%;
+}
